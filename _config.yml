@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ballan Beauty BnB
+title: Ballan Beauty
 email: juicemaster47@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A small website for the ballan beauty airbnb
+  Small AirBnB located near the heart of ballan
 sitedescription: >- # this means to ignore newlines until "baseurl:"
   In the heart of Ballan town, by the Werribee River. 45 minutes from Melbourne and 20 minutes from Daylesford, 15-minute walk from Ballan train station! Nestled close to the Werribee River (1 minute walk) & just a 3 minute walk into town.
   Close to Daylesford, Blackwood, Trentham, Ballarat, and Bacchus Marsh.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ballanbeauty.com/"
 logo: assets/img/VerandaView.jpg
 
 # Build settings
@@ -30,6 +30,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
