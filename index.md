@@ -4,7 +4,7 @@ layout: default
 # Ballan Beauty
 ### The space
 
-Ballan Beauty offers a spacious space, making it suitable for corporate meetings, while adding comfortable beds and bedding and quiet nights for a refreshing sleep!
+Ballan Beauty offers spacious living, making it suitable for corporate meetings, while adding comfortable beds and bedding and quiet nights for a refreshing sleep!
 Beds available are...
 * Queen double beds x 2
 * King Single beds x 2 
